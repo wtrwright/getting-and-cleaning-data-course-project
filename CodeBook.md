@@ -1,10 +1,10 @@
 # Code Book
-Summary of the resulting data fields.
+Summary of the tidy data fields.
 
 ## Identifiers
 -----------
-* subject - The ID of the test subject
-* activity - The type of activity performed when the corresponding measurements were taken
+* subject
+* activity
 
 ## Measurements
 ------------
@@ -88,7 +88,7 @@ Summary of the resulting data fields.
 * fBodyBodyGyroJerkMagStd
 * fBodyBodyGyroJerkMagMeanFreq
 
-## Activity Labels
+## Activities
 ---------------
 * walking
 * walkingupstairs
